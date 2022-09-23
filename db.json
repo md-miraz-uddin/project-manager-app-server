@@ -1,0 +1,383 @@
+{
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$JvHhYChRmqKwK7EnA1KoyuMGswthvMP3QkK8O8n6Muh.LLou6YETG",
+      "name": "user1",
+      "id": 1
+    },
+    {
+      "email": "user2@gmail.com",
+      "password": "$2a$10$VDLYOs8oLOh4DPziNvUvv.vmalkWtXLflRfCsLEqjnx0qGgUCqMYC",
+      "name": "user2",
+      "id": 2
+    },
+    {
+      "email": "user3@gmail.com",
+      "password": "$2a$10$piQOwZvKCX1jN84jvjxPMu4omyuujT.EKjc4/SJFSWPpotAuO8fXe",
+      "name": "user3",
+      "id": 3
+    },
+    {
+      "email": "user4@gmail.com",
+      "password": "$2a$10$aT0c/h4LMtVFkVZtGTUfcOcmH7Lj.guADKxFi7CAE/WmBsJniBzVm",
+      "name": "user4",
+      "id": 4
+    },
+    {
+      "email": "user5@gmail.com",
+      "password": "$2a$10$o0m.gSkKkmLuVTXrH65s5.Mkw7kxD90GDboirTW8rEfk8lK3S55PS",
+      "name": "user5",
+      "id": 5
+    },
+    {
+      "email": "user6@gmail.com",
+      "password": "$2a$10$tlRFmYawt3R14e.pFBV2OefI/l3oh55ax8k4PnGKKteYPiOAKOZGy",
+      "name": "user6",
+      "id": 6
+    },
+    {
+      "email": "user7@gmail.com",
+      "password": "$2a$10$xYoETEott2FRkOQLqPsv3OYCyVg0OqwCJdgP/ip65FbPiqwNrrxWG",
+      "name": "user7",
+      "id": 7
+    },
+    {
+      "email": "user8@gmail.com",
+      "password": "$2a$10$rC2vz.45y0Qpo7s3.DRk8erwnNdjcMGWJpIIR2Y9eY/3d.qlVdXEK",
+      "name": "user8",
+      "id": 8
+    },
+    {
+      "email": "user9@gmail.com",
+      "password": "$2a$10$WHTgSnDJyNYjgMMyGaZe9.45X1IXem1M./wwSuwVGWT6LDn/pqqEm",
+      "name": "user9",
+      "id": 9
+    },
+    {
+      "email": "user10@gmail.com",
+      "password": "$2a$10$7qeSsSqr0B6mqpcHWV8NiOA/2qWmpgg6yp7ghAHMJPHdmuHmTlPom",
+      "name": "user10",
+      "id": 10
+    },
+    {
+      "email": "user11@gmail.com",
+      "password": "$2a$10$ibop/ZbWiE07F0YuB6squOufnMqa.nqzDdfGmDD2BV5ElbTJFeJpe",
+      "name": "user11",
+      "id": 11
+    },
+    {
+      "email": "user12@gmail.com",
+      "password": "$2a$10$fE1rod8vj.HlcD/gI3y4m.xHO1srGDDPbJ6ROgLC9z3/duZK.LL46",
+      "name": "user12",
+      "id": 12
+    },
+    {
+      "email": "user13@gmail.com",
+      "password": "$2a$10$u1/A6NhufENlz8ZvixqaqO9Tq5vAZcqf1ulJmTgzGlh.Hq4wEEVwK",
+      "name": "user13",
+      "id": 13
+    },
+    {
+      "email": "user14@gmail.com",
+      "password": "$2a$10$IWASBdPYg0u.Y/NoKh.oTuy.uglqjCJdSZBpVJSqRIrIwHfedGM0q",
+      "name": "user14",
+      "id": 14
+    },
+    {
+      "email": "user15@gmail.com",
+      "password": "$2a$10$jh.9hxPEYpQLMbFBOOwCEelEf4dUfpDOmAlbAvyn79fyRa8bHoIOK",
+      "name": "user15",
+      "id": 15
+    },
+    {
+      "email": "user16@gmail.com",
+      "password": "$2a$10$gmrgPov3EyvUF9kP8iDR6uQNg8A91xT8Kt9OTcK2yrBcjqCdRq9ta",
+      "name": "user16",
+      "id": 16
+    },
+    {
+      "email": "user17@gmail.com",
+      "password": "$2a$10$8jMI7fsynBIh8wHR66H8w.nXAl8WtqZ2QSgvLW/JV1o3ahwe/mT9q",
+      "name": "user17",
+      "id": 17
+    },
+    {
+      "email": "user18@gmail.com",
+      "password": "$2a$10$JVmQ3Ne40FCZwtx5B1lBLudFYHUev4BH53NvlCSHWr2kfHpsEXUfq",
+      "name": "user18",
+      "id": 18
+    },
+    {
+      "email": "user19@gmail.com",
+      "password": "$2a$10$BNkobM3FzUI6vOhAa3..K.jH22IBP99ca9mqUNLjc3pv454YYtz96",
+      "name": "user19",
+      "id": 19
+    },
+    {
+      "email": "user20@gmail.com",
+      "password": "$2a$10$.g22bk3nz3HSDbAA7UBk9OPPafib2BXZfC4qvVLFTEwRKPMPzvzLK",
+      "name": "user20",
+      "id": 20
+    },
+    {
+      "email": "user21@gmail.com",
+      "password": "$2a$10$nQpRI.ed6UpMeKFVGjpBruEm6IJwTx0j/CZDCK5BDxIUabOXobrZO",
+      "name": "user21",
+      "id": 21
+    },
+    {
+      "email": "user22@gmail.com",
+      "password": "$2a$10$2Y4g9eS.lpZudnLKtOEO2Oy9uI2tzg1YRSQkErd7HnHwQPDKxEcK2",
+      "name": "user22",
+      "id": 22
+    }
+  ],
+  "avatars": [
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/1.jpg",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/2.jpg",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/3.jpg",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/4.jpg",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/5.jpg",
+      "userId": 5,
+      "id": 5
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/6.jpg",
+      "userId": 6,
+      "id": 6
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/7.jpg",
+      "userId": 7,
+      "id": 7
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/8.jpg",
+      "userId": 8,
+      "id": 8
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/9.jpg",
+      "userId": 9,
+      "id": 9
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/10.jpg",
+      "userId": 10,
+      "id": 10
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/11.jpg",
+      "userId": 11,
+      "id": 11
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/12.jpg",
+      "userId": 12,
+      "id": 12
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/13.jpg",
+      "userId": 13,
+      "id": 13
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/14.jpg",
+      "userId": 14,
+      "id": 14
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/15.jpg",
+      "userId": 15,
+      "id": 15
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/16.jpg",
+      "userId": 16,
+      "id": 16
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/17.jpg",
+      "userId": 17,
+      "id": 17
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/18.jpg",
+      "userId": 18,
+      "id": 18
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/19.jpg",
+      "userId": 19,
+      "id": 19
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/male/20.jpg",
+      "userId": 20,
+      "id": 20
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+      "userId": 21,
+      "id": 21
+    },
+    {
+      "avatar": "https://xsgames.co/randomusers/assets/avatars/female/22.jpg",
+      "userId": 22,
+      "id": 22
+    }
+  ],
+  "teams": [
+    {
+      "teamTitle": "Team1",
+      "teamColor": "red",
+      "teamBio": "This is a Hard working and passionate team",
+      "teamCreatedAt": 1663897312257,
+      "id": 1
+    },
+    {
+      "teamTitle": "Team2",
+      "teamColor": "green",
+      "teamBio": "This is a Creative team",
+      "teamCreatedAt": 1663897317777,
+      "id": 2
+    },
+    {
+      "teamTitle": "Team3",
+      "teamColor": "yellow",
+      "teamBio": "This is a Software Testing Specialist team",
+      "teamCreatedAt": 1663897312444,
+      "id": 3
+    },
+    {
+      "teamTitle": "Team4",
+      "teamColor": "teal",
+      "teamBio": "This is a Software Testing Specialist team",
+      "teamCreatedAt": 1663897313685,
+      "id": 4
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "userId": 1,
+      "teams": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "teams": [
+        3,
+        4,
+        2
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "teamId": 1,
+      "projectDescription": "teal",
+      "projectCreatedBy": 2,
+      "projectCreatedAt": 1663897345685
+    },
+    {
+      "id": 2,
+      "teamId": 2,
+      "projectDescription": "teal",
+      "projectCreatedBy": 2,
+      "projectCreatedAt": 1663897378685
+    },
+    {
+      "id": 3,
+      "teamId": 3,
+      "projectDescription": "teal",
+      "projectCreatedBy": 4,
+      "projectCreatedAt": 1663897344685
+    },
+    {
+      "id": 4,
+      "teamId": 4,
+      "projectDescription": "teal",
+      "projectCreatedBy": 5,
+      "projectCreatedAt": 1663897389685
+    },
+    {
+      "id": 5,
+      "teamId": 3,
+      "projectDescription": "teal",
+      "projectCreatedBy": 3,
+      "projectCreatedAt": 1663897377685
+    },
+    {
+      "id": 6,
+      "teamId": 2,
+      "projectDescription": "teal",
+      "projectCreatedBy": 1,
+      "projectCreatedAt": 1663897111685
+    }
+  ],
+  "stages": [
+    {
+      "id": 1,
+      "stageName": "backlog",
+      "projects": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "stageName": "ready",
+      "projects": [
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "stageName": "doing",
+      "projects": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "stageName": "review",
+      "projects": []
+    },
+    {
+      "id": 5,
+      "stageName": "blocked",
+      "projects": []
+    },
+    {
+      "id": 6,
+      "stageName": "done",
+      "projects": [
+        5
+      ]
+    }
+  ]
+}
