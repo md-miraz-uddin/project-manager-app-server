@@ -1,10 +1,10 @@
 {
-    "name": "react-redux-chat-server",
-    "description": "react-redux-chat-server",
+    "name": "project-manager-app-server",
+    "description": "project-manager-app-server",
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
-        "start": "nodemon server.js"
+        "start": "node server.js"
     },
     "keywords": [],
     "author": "Miraz Uddin",
